@@ -1,3 +1,3 @@
-## HTML &CSS Full course
+## HTML &CSS Full Course
 #### SSD01:HTML Basics
-Learning HTML basics
+Learning HTML Basics
